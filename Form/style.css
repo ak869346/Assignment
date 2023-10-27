@@ -1,0 +1,61 @@
+.outer {
+    height: 680px;
+    width: 750px;
+    background-color: rgba(10, 158, 237, 0.907);
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+    padding: 25px;  
+  }
+
+
+.formDiv {
+    height: 500px;
+    width: 470px;
+    background-color: white;
+}
+
+/* .first input {
+    width: calc(100% / 2-20px);
+} */
+
+.Email {
+    margin-left: 70px;
+}
+
+.outer h2 {
+    text-align: center;
+    color: white;
+}
+
+.first {
+    display: flex;
+}
+
+
+
+
+.copyW {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.copyW p {
+    color: white;
+}
+
+.copyW span {
+    color: black;
+}
+
+.btn {
+    padding: 12px 32px;
+    background-color: rgba(10, 158, 237, 0.907);
+    color: white;
+    text-align: center;
+    justify-content: center;
+    border: none;
+}
